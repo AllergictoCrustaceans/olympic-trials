@@ -15,10 +15,23 @@ The intent of this app is not meant to solve any political/economic/social issue
 The languages and frameworks used to create this app are:
 - Java
 - Typescript
-
 - Spring Boot
 - Angular 9
 - MySQL
+
+## Can I see a demo?
+
+![](crudDemo.gif)
+
+
+## What are its features?
+*Not currently deployed*
+
+- CRUD operations 
+- Authentication/Authorization via Spring Security (future)
+- Show athletes' olympic trial events (future)
+- Show athletes' past events (future)
+- Other sports (future)
 
 ## What's the flow of the app?
 
@@ -33,18 +46,5 @@ We also have our angular modules associated to our CRUD operations defined on th
 When the user inputs information and/or clicks on a button from Angular UI, this calls on a frontend Angular module that corresponds to performing that respective crud operation.
 This then invokes the backend script Controller.java, to find which endpoint is associated to which CRUD operation, and send user input/command back to mySQL for retrieving/inputting data. 
 
-
-## What are its features?
-*Not currently deployed*
-
-- CRUD operations 
-- Authentication/Authorization (future)
-- Show athletes' olympic trial events (future)
-- Show athletes' past events (future)
-- Other sports (future)
-
-## Can I see a demo?
-
-![](crudVideo.mp4)
 
 
