@@ -6,13 +6,10 @@ To see the front-end, please go to this link [olympic-trials-client](https://git
 ## What is olympic-trials about?
 
 olympic-trials is a full-stack web app for Olympic-trial-qualifiers to register themselves for the Olympic Trials for a chance to be placed in the USA Olympic team.
-
 The intent of this app is not meant to solve any political/economic/social issue.
 
 This project was meant to help me (AllergictoCrustaceans) learn how to build a full-stack app with an OOP mindset.
-
 As I learn more, I will add more features to this project. 
-
 *What features you ask? Some are listed at the bottom of this markdown :D*
 
 
